@@ -7,5 +7,6 @@ public class Menu {
         System.out.println("2. Subtract");
         System.out.println("3. Multiply");
         System.out.println("4. Division");
+        System.out.println("5. Salir");
     }
 }
